@@ -1,0 +1,6 @@
+source("R/data.R")
+file <- file.path("data", "FinPrint_Set_Data_27Feb2022_WA_new_D_NA2.csv")
+stopifnot(file.exists(file), file.size(file) == 9048043)
+d <- prepare_deployments(file)
+stopifnot(nrow(d) == 16860L, !anyDuplicated(d$set_id))
+write.csv(d, "data/deployments.csv", row.names = FALSE)
