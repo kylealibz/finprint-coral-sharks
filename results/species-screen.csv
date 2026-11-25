@@ -1,0 +1,6 @@
+"species","scientific_name","domain","deployments","reefs","positive_deployments","positive_reefs","mixed_reefs","eligible"
+"Caribbean reef shark","Carcharhinus perezi","Western Atlantic",2473,69,434,43,43,TRUE
+"Nurse shark","Ginglymostoma cirratum","Western Atlantic",2473,69,348,51,51,TRUE
+"Grey reef shark","Carcharhinus amblyrhynchos","Indo-Pacific",10747,262,1996,167,167,TRUE
+"Blacktip reef shark","Carcharhinus melanopterus","Indo-Pacific",10747,262,2067,144,144,TRUE
+"Whitetip reef shark","Triaenodon obesus","Indo-Pacific",10747,262,1348,173,173,TRUE

@@ -1,0 +1,31 @@
+$beta
+          (Intercept)          coral_within         coral_between 
+          -3.14994685            0.06842473           -1.88087077 
+              depth10 substrate_relief_mean 
+           0.35108885            0.21047517 
+
+$reef_sd
+[1] 2.345364
+
+$log_likelihood
+[1] -755.4827
+
+R version 4.3.1 (2023-06-16 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19045)
+
+Matrix products: default
+
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: America/Belize
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.1
